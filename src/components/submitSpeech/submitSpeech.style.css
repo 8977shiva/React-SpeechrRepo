@@ -1,0 +1,23 @@
+.speechbody{
+  display: flex;
+   align-items: center;
+    margin-right: 100px;
+    margin-top: 100px;
+    justify-content: flex-end;
+}
+textarea{
+    width: 250px;
+    height: 50px;
+}
+.ingroup{
+   
+    margin: 10px;
+    display: flex;
+   justify-content: space-between;
+}
+input{
+    margin: 10px;
+}
+button{
+   margin: 10px;
+}
